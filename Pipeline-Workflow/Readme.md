@@ -2,10 +2,10 @@
 
 This folder contains screenshots of the **Databricks Job Workflow** used to automate the Exam Performance Analytics pipeline.
 
-- **databricks_job_workflow.png**  
+- **pipeline1.png**  
   Visual representation of the end-to-end Databricks job pipeline executing Bronze, Silver, and Gold notebooks sequentially.
 
-- **pipeline_execution_timeline.png**  
+- **pipeline2.png**  
   Timeline view showing execution order, duration, and successful completion of each pipeline stage.
 
 ### Pipeline Overview
